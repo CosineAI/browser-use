@@ -1,4 +1,4 @@
-module browseruse
+module github.com/CosineAI/browser-use/go
 
 go 1.23.0
 
